@@ -1,0 +1,5 @@
+
+- Gerar [primeiro] número aleatórios entre 1 e 4, armazenar num vetor
+- Piscar o led correspondente por 200ms
+- Esperar o toque de um botão, se é correspondente ao [primeiro] número gerado
+- Se for, continua. Se não for, game over.
